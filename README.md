@@ -12,3 +12,7 @@ Made this quikcly so i could just give myself infinite money, and was interested
 
 Although their is XOR used to encrypt the save file and the XOR key is 4 bytes long to make it harder to guess in theory. 
 due to its usage only the first byte is ever used. thus the encryption key is 4.
+
+
+## Example deseralised HoT_Profile.dat
+![alt text](output.png)
